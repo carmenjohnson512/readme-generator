@@ -2,40 +2,41 @@
 function generateMarkdown(data) {
   return `# ${data.title}
 
-# Desciption: 
+# Desciption 
   ${data.description}
 
-# Table of Contents: 
+# Table of Contents 
 
-  [Description](#installation)
-  [Installation](#installation)
-  [Usage](#usage)
-  [License](#license)
-  [Contributing](#contributing)
-  [Tests](#tests)
-  [Questions](#questions)
+  - [Description](#installation)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
-# Installation: 
+# Installation 
   ${data.installation}
 
-# Usage:
+# Usage
   ${data.usage}
 
-# License: 
+# License 
   ${data.license}
 
-# Contributing:
+# Contributing
   ${data.contributing}
 
-# Tests:
+# Tests
   ${data.tests}
 
 # Questions:
 
   If you have any questions about this app, feel free to contact me here:
-  
-  Github profile: https://github.com/${data.github}
-  Email: ${data.email}
+
+  - Github profile: https://github.com/${data.github}
+
+  - Email: ${data.email}
 `;
 }
 
