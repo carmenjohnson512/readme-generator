@@ -15,9 +15,9 @@ When they enter the project title, it is displayed as the title of the README.
 
 When they enter a description, installation instructions, usage information, contribution guidelines, and test instructions, this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests.
 
-When the user chooses a license for my application from a list of options, a badge for that license is added under the Licenses section.
+When the user chooses a license for the application from a list of options, a badge for that license is added under the Licenses section.
 
-When the user enters their GitHub username and email address, this is added to the section of the README entitled Questions, with a link to the GitHub profile and instructions on how to reach me with additional questions.
+When the user enters their GitHub username and email address, this is added to the section of the README entitled Questions, with a link to the GitHub profile and instructions on how to reach out with additional questions.
 
 When the user clicks on the links in the Table of Contents, they are taken to the corresponding section of the README. 
 
