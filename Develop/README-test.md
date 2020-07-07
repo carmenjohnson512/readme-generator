@@ -13,22 +13,22 @@
   - [Tests](#tests)
   - [Questions](#questions)
 
-# Installation 
-  
-
-# Usage
+## Installation 
   This is how to install
 
-# License 
+## Usage
+  This is a usage example
+
+## License 
   [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
-# Contributing
+## Contributing
   This is how to contribute updates
 
-# Tests
-  
+## Tests
+  This is more detail on code and tech
 
-# Questions:
+## Questions:
 
   If you have any questions about this app, feel free to contact me here:
 
