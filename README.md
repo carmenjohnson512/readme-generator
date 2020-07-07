@@ -13,8 +13,8 @@ node index.js
 Because this is a command-line application that won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates the functionality of your application. Revisit the Screencastify Tutorial in the prework as a refresher on how to record video from your computer.
 
 ## App Example
-![](10-EE-Summary-Template-Engine/node_app_example.gif)
+![](Develop/README-Generator-example.gif)
 
 ## Sample Output
-![](10-EE-Summary-Template-Engine/teamHTML.jpg)
+![](Develop/README-Output-Example.jpg)
 
