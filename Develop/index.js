@@ -73,7 +73,7 @@ function init() {
 
         var readmeStr = markdown(answers);
         // console.log(readmeStr);
-        writeToFile("README.md",readmeStr)
+        writeToFile("README-test.md",readmeStr)
 
     }); 
 }
