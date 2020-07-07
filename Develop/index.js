@@ -1,14 +1,4 @@
 // array of questions for user
-//README elements
-// Title
-//   * Description
-//   * Table of Contents
-//   * Installation
-//   * Usage
-//   * License
-//   * Contributing
-//   * Tests
-//   * Questions
 
 const markdown = require("./utils/generateMarkdown");
 const inquirer = require("inquirer");
@@ -83,7 +73,7 @@ function init() {
 
         var readmeStr = markdown(answers);
         // console.log(readmeStr);
-        writeToFile("READEME.md",readmeStr)
+        writeToFile("README.md",readmeStr)
 
     }); 
 }
